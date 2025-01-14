@@ -20,7 +20,7 @@ Perkenalkan nama saya **Joshua Prasetyo Sadewo Paundu**.<br>
 
 Saya seorang **Pelajar** di [SMK Telkom Makassar](https://smktelkom-mks.sch.id/).<br>
 
-Saya pernah melaksanakan kegiatan Praktek Kerja Lapangan (PKL) di [PTIK/DSITD Universitas Hasanuddin](dsitd.unhas.ac.id).<br>
+Saya pernah melaksanakan kegiatan Praktek Kerja Lapangan (PKL) di [PTIK/DSITD Universitas Hasanuddin](https://dsitd.unhas.ac.id/).<br>
 
 Saya memiliki sertifikasi pada bidang Rekayasa Jaringan Komputer (Network Engineer) dengan kualifikasi Junior Network Administration dari Badan Nasional Sertifikasi Profesi (BNSP).<br>
 
